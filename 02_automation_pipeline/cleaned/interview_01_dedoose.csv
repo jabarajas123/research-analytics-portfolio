@@ -1,0 +1,15 @@
+source,turn_index,speaker,word_count,text
+interview_01,1,INTERVIEWER,18,Thanks for making the time. Can you just start by telling me a little about your role here?
+interview_01,2,RESPONDENT 1,45,"Yeah of course. So I'm a senior analyst on the insights team, been here about three years. Most of my work is quantitative — a lot of survey data, some modeling. We've been experimenting with AI tools more recently which is probably why I'm here."
+interview_01,3,INTERVIEWER,20,Exactly. So walk me through a typical week — what does the analytical work actually look like day to day?
+interview_01,4,RESPONDENT 1,51,"Sure. So most weeks I'm either in data — cleaning, building models, running outputs — or I'm writing. The writing takes longer than people expect. Like the actual analysis might take a day but turning it into something a client can read takes two or three days on top of that."
+interview_01,5,INTERVIEWER,14,That's interesting. Has anything changed about that process in the last year or so?
+interview_01,6,RESPONDENT 1,37,Yeah. We started using Copilot for some of the writing tasks. I was skeptical at first honestly. My main concern was that the outputs would sound generic. Like they'd lose the analytical voice that clients pay for.
+interview_01,7,INTERVIEWER,3,And did they?
+interview_01,8,RESPONDENT 1,57,"Sometimes. Yeah. It depends a lot on how you prompt it. If you just dump the data in and say write a summary you get garbage. But if you actually scaffold it — here's the finding, here's the so-what, here's what the client cares about — it's pretty useful. Saves maybe 40 minutes on a standard deliverable."
+interview_01,9,INTERVIEWER,25,What about the verification side — do you feel like you have to check the outputs more carefully than you would check your own work?
+interview_01,10,RESPONDENT 1,46,"Oh definitely. I catch errors more than I'd like. Not huge errors usually but like a number gets transposed or a claim gets slightly overstated. So there's a checking cost. Whether that's less than the time saved — I think it is, but it's not nothing."
+interview_01,11,INTERVIEWER,29,"That's a really honest answer. Last question for this section — if the tool was perfect, if it never made a mistake, would you use it more or differently?"
+interview_01,12,RESPONDENT 1,27,Honestly? I'd still want to write the key sections myself. The parts where the analytical judgment is visible. The rest — yeah I'd outsource all of it.
+interview_01,13,INTERVIEWER,4,Why keep those sections?
+interview_01,14,RESPONDENT 1,23,"Because that's the part clients are actually paying for. If the insight could come from a machine, why am I in the room."

@@ -1,0 +1,9 @@
+segment_label,material_hardship,housing_stability,food_security,financial_stress,employment_access,social_support,benefit_gap,economic_mobility
+Constrained & High Need,4.346,1.581,2.11,4.673,1.373,3.14,4.514,2.075
+Moderately Stable,1.71,4.666,4.543,1.411,4.715,4.569,1.565,4.657
+Asset-Rich / Low Need,3.173,3.771,4.02,2.482,4.37,3.698,2.775,4.148
+Working Poor,4.65,1.312,1.625,4.685,1.379,1.482,4.539,1.474
+Middle / Ambiguous,3.603,2.745,3.874,3.345,2.817,3.264,3.349,2.857
+Deep Poverty / Crisis,2.764,3.234,3.146,2.803,3.586,3.089,2.796,3.517
+Stable / Upwardly Mobile,3.632,2.736,3.664,3.036,3.369,4.271,3.268,3.055
+Near-Poor / Transitional,4.189,2.25,1.878,4.4,1.853,2.021,4.221,1.773

@@ -1,0 +1,41 @@
+INTERVIEWER:
+Thanks for making the time. Can you just start by telling me a little about your role here?
+
+RESPONDENT 1:
+Yeah of course. So I'm a senior analyst on the insights team, been here about three years. Most of my work is quantitative — a lot of survey data, some modeling. We've been experimenting with AI tools more recently which is probably why I'm here.
+
+INTERVIEWER:
+Exactly. So walk me through a typical week — what does the analytical work actually look like day to day?
+
+RESPONDENT 1:
+Sure. So most weeks I'm either in data — cleaning, building models, running outputs — or I'm writing. The writing takes longer than people expect. Like the actual analysis might take a day but turning it into something a client can read takes two or three days on top of that.
+
+INTERVIEWER:
+That's interesting. Has anything changed about that process in the last year or so?
+
+RESPONDENT 1:
+Yeah. We started using Copilot for some of the writing tasks. I was skeptical at first honestly. My main concern was that the outputs would sound generic. Like they'd lose the analytical voice that clients pay for.
+
+INTERVIEWER:
+And did they?
+
+RESPONDENT 1:
+Sometimes. Yeah. It depends a lot on how you prompt it. If you just dump the data in and say write a summary you get garbage. But if you actually scaffold it — here's the finding, here's the so-what, here's what the client cares about — it's pretty useful. Saves maybe 40 minutes on a standard deliverable.
+
+INTERVIEWER:
+What about the verification side — do you feel like you have to check the outputs more carefully than you would check your own work?
+
+RESPONDENT 1:
+Oh definitely. I catch errors more than I'd like. Not huge errors usually but like a number gets transposed or a claim gets slightly overstated. So there's a checking cost. Whether that's less than the time saved — I think it is, but it's not nothing.
+
+INTERVIEWER:
+That's a really honest answer. Last question for this section — if the tool was perfect, if it never made a mistake, would you use it more or differently?
+
+RESPONDENT 1:
+Honestly? I'd still want to write the key sections myself. The parts where the analytical judgment is visible. The rest — yeah I'd outsource all of it.
+
+INTERVIEWER:
+Why keep those sections?
+
+RESPONDENT 1:
+Because that's the part clients are actually paying for. If the insight could come from a machine, why am I in the room.
